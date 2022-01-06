@@ -1,12 +1,12 @@
-2.4.0
-alpha=2.4.0-alpha3
-beta=2.4.0-beta4
+2.5.0
+alpha=2.5.0-alpha3
+beta=2.5.0-beta4
 
 [common]
-release = 2.4.0
-alpha = 2.4.0-alpha3
-beta = 2.4.0-beta4
-rc = 2.4.0-rc2
+release = 2.5.0
+alpha = 2.5.0-alpha3
+beta = 2.5.0-beta4
+rc = 2.5.0-rc2
 
 [release:win64]
 url = https://www.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.3.3.exe
