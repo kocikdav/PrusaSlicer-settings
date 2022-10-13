@@ -4,7 +4,7 @@ beta=2.5.0-beta4
 
 [common]
 release = 2.5.0
-alpha = 2.5.1-alpha1
+alpha = 2.6.0-alpha3
 beta = 2.5.0-beta4
 rc = 2.5.0-rc2
 
