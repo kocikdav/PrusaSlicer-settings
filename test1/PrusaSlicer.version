@@ -13,10 +13,10 @@ url = https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.0
 size = 85431576
 
 [release:linux]
-url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_mac_2_5_0.dmg
-size = 201633792
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.0/PrusaSlicer-2.5.0+linux-x64-GTK3-202209060725.AppImage
+size = 69489856
 
 [release:osx]
-url = https://cdn.prusa3d.com/downloads/drivers/prusa3d_linux_2_5_0.zip
-size = 687370065
+url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.0/PrusaSlicer-2.5.0+MacOS-universal-202209060719.dmg
+size = 89710582
 
