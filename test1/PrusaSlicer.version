@@ -10,7 +10,7 @@ rc = 2.5.0-rc2
 
 [release:win64]
 url = https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.5.0.exe
-size = 85431576
+size = 85431577
 
 [release:linux]
 url = https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.5.0/PrusaSlicer-2.5.0+linux-x64-GTK3-202209060725.AppImage
